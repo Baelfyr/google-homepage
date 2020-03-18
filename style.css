@@ -1,7 +1,9 @@
+/*IDs*/
+
 #top-list {
 	list-style-type: none;
 	margin: 0;
-	padding: 0;
+	padding: 0;	
 }
 #bottom-list {
 	list-style-type: none;
@@ -9,8 +11,66 @@
 	padding: 0;
 }
 
+#logo {
+	position: absolute;
+	bottom: 500px;
+	left: 800px;
+	padding-bottom: 20px;
+}
+#first-form {
 
+}
+#search-bar {
+	position: absolute;
+	bottom: 500px;
+	left: 800px;
+	padding-bottom: 20px;
+}
+#search-button {
+	position: absolute;
+	bottom: 500px;
+	left: 800px;
+	padding-bottom: 20px;
+}
+#feeling-lucky {
+	position: absolute;
+	bottom: 500px;
+	left: 800px;
+	padding-bottom: 20px;	
+}
+#top-nav-bar {
+	height: 300;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	-moz-align-items: center;
+	-webkit-justify-content: center;
+	-moz-justify-content: center;
+	top: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+}
+#bottom-nav-bar {
+	height: 300;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-align-items: center;
+	-moz-align-items: center;
+	-webkit-justify-content: center;
+	-moz-justify-content: center;
+	bottom: 0;
+	left: 0;
+	position: absolute;
+	right: 0;
+}
+/*Classes*/
+/*Elements*/
 
 li {
 	display: inline;
+}
+
+img {
+
 }
