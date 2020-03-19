@@ -13,30 +13,54 @@
 
 #logo {
 	position: absolute;
-	bottom: 500px;
+	bottom: 650px;
 	left: 800px;
-	padding-bottom: 20px;
 }
 #first-form {
 
 }
 #search-bar {
 	position: absolute;
-	bottom: 500px;
-	left: 800px;
-	padding-bottom: 20px;
+	bottom: 579px;
+	left: 650px;
+	width: 575px;
+	border-radius: 24px;
+	height: 40px;
+	background: #fff;
+	border: 1px solid #dfe1e5;
+	box-shadow: none;
+	z-index: 3;
+	padding-left: 30px;
+
 }
 #search-button {
 	position: absolute;
-	bottom: 500px;
-	left: 800px;
-	padding-bottom: 20px;
+	bottom: 525px;
+	left: 775px;
+	background-color: #f2f2f2;
+	height: 35px;
+	width: 150px;
+	box-shadow: none;
+	border-radius: 4px;
+	border: 1px solid #f2f2f2;
+	color: #5f6368;
+	text-align: center;
+	font-size: 14px;
 }
 #feeling-lucky {
 	position: absolute;
-	bottom: 500px;
-	left: 800px;
-	padding-bottom: 20px;	
+	bottom: 525px;
+	left: 875px;
+	margin-left: 75px;
+	background-color: #f2f2f2;
+	height: 35px;
+	width: 150px;
+	box-shadow: none;
+	border-radius: 4px;
+	border: 1px solid #f2f2f2;
+	color: #5f6368;
+	text-align: center;
+	font-size: 14px;
 }
 #top-nav-bar {
 	height: 300;
